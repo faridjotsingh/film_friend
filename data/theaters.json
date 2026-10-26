@@ -1,0 +1,50 @@
+{
+  "home_location": "Dwarka Mor, Delhi",
+  "theaters": [
+    {
+      "id": 1,
+      "name": "PVR Vegas Dwarka",
+      "area": "Vegas Mall, Sector 14, Dwarka",
+      "nearest_metro": "Dwarka Sector 14",
+      "formats": ["IMAX", "4DX"],
+      "discount_day": "Tuesday",
+      "travel_minutes_from_home": 35
+    },
+    {
+      "id": 2,
+      "name": "PVR IMAX with Laser - Priya",
+      "area": "Basant Lok, Vasant Vihar",
+      "nearest_metro": "Vasant Vihar",
+      "formats": ["IMAX with Laser"],
+      "discount_day": "Tuesday",
+      "travel_minutes_from_home": 120
+    },
+    {
+      "id": 3,
+      "name": "INOX Vishal Mall, Rajouri Garden",
+      "area": "Vishal Cinema Complex, District Centre, Rajouri Garden",
+      "nearest_metro": "Rajouri Garden",
+      "formats": ["Dolby Atmos"],
+      "discount_day": "Tuesday",
+      "travel_minutes_from_home": 55
+    },
+    {
+      "id": 4,
+      "name": "Cinépolis City Centre Dwarka",
+      "area": "City Centre II, Sector 12, Dwarka",
+      "nearest_metro": "Dwarka Sector 12",
+      "formats": ["2K Laser Projection", "Dolby 7.1"],
+      "discount_day": "Tuesday",
+      "travel_minutes_from_home": 25
+    },
+    {
+      "id": 5,
+      "name": "PVR Pacific",
+      "area": "Pacific Mall, Tagore Garden, Subhash Nagar",
+      "nearest_metro": "Subhash Nagar",
+      "formats": ["4DX", "Dolby Atmos"],
+      "discount_day": "Tuesday",
+      "travel_minutes_from_home": 45
+    }
+  ]
+}
